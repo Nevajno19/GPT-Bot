@@ -10,6 +10,6 @@ COPY . .
 
 ENV PORT=3000
 
-CMD [ "npm", "start" ]
-
 EXPOSE $PORT
+
+CMD [ "npm", "start" ]
