@@ -5,3 +5,4 @@ config/production.json
 .vscode
 client/package-lock.json
 docker-compose.yml
+voices
